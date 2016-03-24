@@ -1,0 +1,8 @@
+{
+	modules:[
+{
+name:'wisemediadsp',
+class:'com.sin.moduleDemo.WiseMediaDSP'
+}		
+	]
+}
